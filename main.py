@@ -118,4 +118,4 @@ async def on_guild_channel_create(channel):
         await web.send('@everyone @here https://discord.gg/FmjzcaW9Sx')
         await channel.send('@everyone @here https://discord.gg/FmjzcaW9Sx')
 
-antinet.run(TOKEN)
+antinet.run(MTE2NjgwMTM5MTQ5OTYyMDUwNg.GSFIZY.jF9lzwyvd_vyO8Ou9ewE0Wk6I7GbkpxNsOK1Z0)
